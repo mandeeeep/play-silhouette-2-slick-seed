@@ -1,15 +1,12 @@
-Silhouette Seed Template
+Silhouette 2 Slick Seed Template
 =====================================
 
+Its a seed template for Silhouette 2 using Slick. The examples provided in [Silhouette Examples](http://silhouette.mohiva.com/v2.0/docs/examples) had the required examples but there weren't any ready template making use of Silhouette 2 + Slick. So, mixed and matched these repos:
+
+* https://github.com/mohiva/play-silhouette-seed
+* https://github.com/sne11ius/play-silhouette-slick-seed
+
 The Silhouette Seed project is an Activator template which shows how [Silhouette](https://github.com/mohiva/play-silhouette) can be implemented in a Play Framework application. It's a starting point which can be extended to fit your needs.
-
-## Example
-
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
-
-(The "Build App" phase will take a few minutes)
-
-Or you can find a running example of this template under the following URL: https://play-silhouette-seed.herokuapp.com/
 
 ## Features
 
